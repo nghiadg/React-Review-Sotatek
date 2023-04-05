@@ -1,0 +1,9 @@
+.wrapper {
+    padding: 1rem 3rem;
+    height: 100%;
+    border-right: 1px solid #000;
+}
+
+.heading {
+    text-align: center;
+}

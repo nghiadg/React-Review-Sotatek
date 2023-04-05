@@ -1,0 +1,9 @@
+.flex {
+    display: flex;
+}
+
+.flexItem {
+    flex: 1;
+    width: 50%;
+    min-height: 100vh;
+}

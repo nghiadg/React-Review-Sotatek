@@ -1,0 +1,22 @@
+.inputItem {
+    width: 100%;
+    margin-bottom: 1rem;
+    box-sizing: border-box;
+}
+
+.label {
+    display: block;
+    font-weight: 500;
+    font-size: 0.75rem;
+    margin-bottom: 0.25rem;
+}
+
+.otherInfo {
+    display: flex;
+    gap: 1rem;
+}
+
+.otherInfoItem {
+    flex: 1;
+    width: 50%;
+}
